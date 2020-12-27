@@ -1,4 +1,4 @@
-# Face Recognition Using Raspberry-Pi
+# Face Recognition using RaspberryPi
 Face Recognition System using Raspberry Pi for Marking attendance.
 
 Dependencies
